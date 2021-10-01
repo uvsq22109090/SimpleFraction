@@ -1,2 +1,2 @@
 # SimpleFraction
-syntaxe utilisée pour ce fichier est le Markdown.
+langage utilisée pour ce fichier est le Markdown.
